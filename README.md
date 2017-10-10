@@ -2,6 +2,8 @@
 Project for Hack@Smith 2016
 <br/>
 Dream Map
+</br>
+(Python)
 <br/>
 Collaborated with Katrina Kuo and Lucia Simova.
 
